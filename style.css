@@ -100,7 +100,7 @@ margin-top: 10px;
 
 #projets {
     background-color : rgb(199, 49, 99);
-    height: 1200px;
+    height: 1700px;
 }
 
 .maquette {
@@ -109,6 +109,10 @@ margin-top: 10px;
     border-radius: 15px;
 }
 
+.ce {
+    float: right;
+    margin-top: 180px;
+}
 
 .edhec
 {
@@ -116,4 +120,20 @@ margin-top: 10px;
     margin-right: 30px;
     margin-top: 50px;
     border-radius: 15px;
+}
+
+.textelegal {
+    margin-left: 50px;
+    margin-top: 300px;
+}
+
+.panel {
+    margin-left: 50px;
+    margin-top: 100px;
+    border-radius: 15px;
+}
+
+.allocine {
+   float: right;
+    margin-top: 200px;
 }
